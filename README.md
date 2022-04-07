@@ -13,5 +13,11 @@
 **Serve application** - Start your application by `node server.js`
 
 **Test card details** - Use `4242 4242 4242 4242` card number for testing.
+  __   __    ___    __     __  ________   ___
+ /  \ /  \  / _ \  /  \   /  \ |___   /  / _ \ 
+ |  |_|  | / /_\ \ |   \_/   |    /  /  / /_\ \
+ |   _	 | |  _  | |   ___   |   /  /   |  _  |
+ |  | |  | | | | | |  |	  |  |  /  /__  | | | |
+ \__/ \__/ \_| |_/ |__|   |__| |______| \_| |_/
 
 ![Index Page](/index.png)
